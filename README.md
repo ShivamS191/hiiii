@@ -1,16 +1,3 @@
-# GitHub Users in Delhi
-
-This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
-
-## Files
-
-1. `users.csv`: Contains information about 610 GitHub users in Delhi with over 100 followers
-2. `repositories.csv`: Contains information about 60995 public repositories from these users
-3. `gitscrap.py`: Python script used to collect this data
-
-## Data Collection
-
-- Data collected using GitHub API
-- Date of collection: 2024-10-31
-- Only included users with 100+ followers
-- Up to 500 most recently pushed repositories per user
+-This project scrapes GitHub users in Berlin with over 200 followers and their repositories using the GitHub API.
+- The most interesting fact found is the diversity of programming languages used by these developers.
+- Developers should consider contributing to open-source projects to increase their visibility and followers.
